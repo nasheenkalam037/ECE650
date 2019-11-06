@@ -1,0 +1,8 @@
+Modern SAT solvers: fast, neat and underused
+
+https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/
+
+
+MiniSat to solve Sudoku
+
+https://github.com/horenmar/sudoku-example
